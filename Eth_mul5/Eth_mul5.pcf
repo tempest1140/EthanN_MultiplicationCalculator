@@ -1,0 +1,11 @@
+# LEDs
+set_io		X	99
+set_io		Y	98
+set_io		Z	97
+set_io		N	96
+
+# PMOD I/O
+set_io	-pullup	yes	A	78
+set_io	-pullup	yes	B	79
+set_io	-pullup	yes	C	80
+set_io	-pullup	yes	D	81
